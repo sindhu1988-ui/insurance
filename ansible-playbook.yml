@@ -13,4 +13,4 @@
     command : sudo systemctl start docker
 
   - name: Deploy Docker Container
-    command: docker run -itd -p 8070:8081 sindhu8878/insure-me:1.1
+    command: docker run -itd -p 8070:8081 sindhu8878/insure-me:2.0
